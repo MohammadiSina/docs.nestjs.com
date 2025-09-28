@@ -1,0 +1,84 @@
+/* Local Google Fonts - Source Sans Pro */
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Source-Sans-Pro_400_normal.eot');
+  src: local('Source Sans Pro Regular'), local('Source-Sans-Pro-Regular'),
+       url('../fonts/Source-Sans-Pro_400_normal.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Source-Sans-Pro_400_normal.woff2') format('woff2'),
+       url('../fonts/Source-Sans-Pro_400_normal.woff') format('woff'),
+       url('../fonts/Source-Sans-Pro_400_normal.ttf') format('truetype'),
+       url('../fonts/Source-Sans-Pro_400_normal.svg#Source-Sans-Pro_400_normal') format('svg');
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Source Sans Pro SemiBold'), local('Source-Sans-Pro-SemiBold'),
+       url('../fonts/Source-Sans-Pro_600_normal.woff2') format('woff2'),
+       url('../fonts/Source-Sans-Pro_600_normal.woff') format('woff'),
+       url('../fonts/Source-Sans-Pro_600_normal.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Source Sans Pro Bold'), local('Source-Sans-Pro-Bold'),
+       url('../fonts/Source-Sans-Pro_700_normal.woff2') format('woff2'),
+       url('../fonts/Source-Sans-Pro_700_normal.woff') format('woff'),
+       url('../fonts/Source-Sans-Pro_700_normal.ttf') format('truetype');
+}
+
+/* Local Google Fonts - Inconsolata */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Inconsolata_400_normal.eot');
+  src: local('Inconsolata Regular'), local('Inconsolata-Regular'),
+       url('../fonts/Inconsolata_400_normal.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Inconsolata_400_normal.woff2') format('woff2'),
+       url('../fonts/Inconsolata_400_normal.woff') format('woff'),
+       url('../fonts/Inconsolata_400_normal.ttf') format('truetype'),
+       url('../fonts/Inconsolata_400_normal.svg#Inconsolata_400_normal') format('svg');
+}
+
+/* Local Google Fonts - Material Icons */
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Material-Icons_400_normal.eot');
+  src: local('Material Icons'), local('Material-Icons'),
+       url('../fonts/Material-Icons_400_normal.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Material-Icons_400_normal.woff2') format('woff2'),
+       url('../fonts/Material-Icons_400_normal.woff') format('woff'),
+       url('../fonts/Material-Icons_400_normal.ttf') format('truetype'),
+       url('../fonts/Material-Icons_400_normal.svg#Material-Icons_400_normal') format('svg');
+}
+
+/* Material Icons base styles */
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  font-feature-settings: 'liga';
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
