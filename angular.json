@@ -27,7 +27,10 @@
               "src/mstile-150x150.png",
               "src/_redirects"
             ],
-            "styles": ["src/styles.scss"]
+            "styles": [
+              "src/assets/css/google-fonts-local.css",
+              "src/styles.scss"
+            ]
           },
           "configurations": {
             "production": {
